@@ -11,12 +11,11 @@ Nhóm lớp 06 – Nhóm BTL 08
 Thành viên:
 
 - Cao Thành Huy –B19DCCN303 (Nhóm trưởng)
-- Phan Thanh Hải – B19DCCN427
-- Trần Khánh Hưng – B19DCCN331
+- Phan Thanh Hải – B19DCCN219
 
 Phân công công việc:
  
-Nguyễn Văn Minh- B19DCCN303 : 
+Cao Thành Huy - B19DCCN303 : 
 - 	Frontend (html,css): 50%
 - 	Back end: Đăng nhập hệ thống, các chức năng của Admin, sắp xếp Sản phẩm.
 - 	Test , kiểm tra lỗi
